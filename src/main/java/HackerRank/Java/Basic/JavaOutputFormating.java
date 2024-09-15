@@ -1,4 +1,4 @@
-package HackerRank.Java;
+package HackerRank.Java.Basic;
 
 import java.util.Scanner;
 
@@ -11,9 +11,9 @@ public class JavaOutputFormating {
         int y = scanner.nextInt();
         String c = scanner.next();
         int z = scanner.nextInt();
-        System.out.print(a+"           "+x);
-        System.out.printf(b+"            "+y);
-        System.out.printf(c+"         "+z) ;
+        System.out.print(a + "           " + x);
+        System.out.printf(b + "            " + y);
+        System.out.printf(c + "         " + z);
         System.out.println();
     }
 }

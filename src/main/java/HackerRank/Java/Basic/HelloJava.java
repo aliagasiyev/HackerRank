@@ -1,4 +1,4 @@
-package HackerRank.Java;
+package HackerRank.Java.Basic;
 
 public class HelloJava {
     public static void main(String[] args) {

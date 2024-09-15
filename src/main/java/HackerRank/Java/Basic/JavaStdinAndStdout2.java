@@ -1,4 +1,4 @@
-package HackerRank.Java;
+package HackerRank.Java.Basic;
 
 import java.util.Scanner;
 
@@ -8,7 +8,6 @@ public class JavaStdinAndStdout2 {
         Scanner scanner = new Scanner(System.in);
         int i = scanner.nextInt();
         double d = scanner.nextDouble();
-        scanner.nextLine();
         String s = scanner.nextLine();
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
